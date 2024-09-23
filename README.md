@@ -2,7 +2,7 @@
 
 [FULL DOWNLOAD](https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view) - https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view
 <br> *************************** RUS <br>
-Данный мод добавляет 1 МИЛЛИОН противников на карта. ВСЕ КАРТЫ ПРОХОДИМЫ (даже без убийств противников) <br>
+Данный мод добавляет 1 МИЛЛИОН противников на картах. ВСЕ КАРТЫ ПРОХОДИМЫ (даже без убийств противников) <br>
 Для запуска просто запустить файл: <br>
 SUPER DOOM 2 START.bat <br>
 или <br>
