@@ -1,4 +1,5 @@
 # SUPER_DOOM2
+by KONOVALOV
 
 [FULL DOWNLOAD](https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view) - https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view
 <br> *************************** RUS <br>
