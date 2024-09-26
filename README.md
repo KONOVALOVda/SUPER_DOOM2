@@ -1,7 +1,7 @@
 # SUPER_DOOM2
 <p><em>by KONOVALOV</em></p>
 
-[FULL DOWNLOAD](https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view) - https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view
+[[FULL DOWNLOAD]](https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view?usp=sharing) - https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view?usp=sharing
 <br> *************************** RUS <br>
 Данный мод добавляет 1 МИЛЛИОН противников на картах. ВСЕ КАРТЫ ПРОХОДИМЫ (даже без убийств противников) <br>
 Для запуска просто запустить файл: <br>
