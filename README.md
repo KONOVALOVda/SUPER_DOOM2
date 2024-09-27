@@ -1,11 +1,15 @@
 # SUPER_DOOM2
 <p><em>by KONOVALOV</em></p>
 
+# BRUTAL & 3D VERSION
+
+[[FULL DOWNLOAD]](https://drive.google.com/file/d/1suOhbouvZ3Qx6MDrcLV1ntzR04ObwDFq/view?usp=sharing) - https://drive.google.com/file/d/1suOhbouvZ3Qx6MDrcLV1ntzR04ObwDFq/view?usp=sharing
+
 # ORIGINAL VERSION - 
 [[FULL DOWNLOAD]](https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view?usp=sharing) - https://drive.google.com/file/d/1RveMgd-bTx52OIYobQj6D7rPQCf4Cqgu/view?usp=sharing
 <br>
 <br>
-# BRUTAL & 3D VERSION
+
 
 <br> *************************** RUS <br>
 Данный мод добавляет 1 МИЛЛИОН противников на картах. ВСЕ КАРТЫ ПРОХОДИМЫ (даже без убийств противников) <br>
