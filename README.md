@@ -22,7 +22,8 @@
 
 ![image](https://github.com/user-attachments/assets/dbc46514-7c2b-4689-baf5-2d8a3dee5650)
 
-
+# MS-DOS VERSION
+[FULLDOWNLOAD-DOS](https://drive.google.com/file/d/1aMUn1dr-erjrsBbfqJb8ZZqnlFwYMUhS/view?usp=sharing) - https://drive.google.com/file/d/1aMUn1dr-erjrsBbfqJb8ZZqnlFwYMUhS/view?usp=sharing
 
 *************************** RUS
 Данный мод добавляет 1 МИЛЛИОН противников на картах. ВСЕ КАРТЫ ПРОХОДИМЫ (даже без убийств противников) <br>
