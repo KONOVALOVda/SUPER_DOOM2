@@ -30,6 +30,8 @@
 SUPER DOOM 2 START BRUTAL.bat <br>
 или <br>
 SUPER DOOM 2 3D start.bat <br>
+или <br>
+SUPER DOOM 2 START.bat - (not 3D and BRUTAL)<br>
 
 
 **************************** ENG
